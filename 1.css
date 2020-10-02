@@ -1,0 +1,15 @@
+.btn-lg {
+ background-color: darkorchid;  
+}
+.btn-lg:hover {
+    background-color:fuchsia ;
+    border-color: darkorchid;
+
+      
+   }
+   .btn-primary{
+
+    border-color: darkorchid;
+
+   }
+   
